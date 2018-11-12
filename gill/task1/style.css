@@ -1,0 +1,21 @@
+h1{
+font-size:32px;
+font-weight: bold;
+
+font-family: Georgia;
+}
+h2{
+    font-size:18px;
+    color:blue;
+    font-family:Georgia;
+}
+p.gill{
+    font-size:16px;
+    font-family:Georgia;
+    text-align:center;
+}
+p.saab{
+    color:#FF66C1;
+    text-align:left;
+
+}
